@@ -1,0 +1,36 @@
+_repo: Tales-from-the-Works-of-G-A-Henty_53700
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_issued: '2016-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories, English'
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The mate's story, from "The Plague Ship" -- The explosion in the
+  Vaughan pit, from "Facing Death" -- The red captain, from "One of the 28th" -- A
+  wife's stratagem, from "In Freedom's Cause" -- Kindness rewarded, from "Captain
+  Bayley's Heir" -- A battle with wolves, from "The Young Carthaginian" -- A cyclone
+  in the Bay of Bengal, from "A Chapter of Adventures" -- The flood in Pine-tree Gulch,
+  from "Tales of Daring and Danger" -- A brush with the Chinese, from "Tales of Daring
+  and Danger" -- The black death, from "St. George for England" -- The white ship,
+  from "The Reign of Terror" -- The child's return, from "With Wolfe in Canada" --
+  The Black Hole of Calcutta, from "With Clive in India."
+title: Tales from the Works of G. A. Henty
+url: http://www.gutenberg.org/ebooks/53700
